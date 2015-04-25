@@ -26,10 +26,10 @@ If you don't already have Bookafy you can get your 30 day trial by <a href="http
 
 **Testimonials**
 So happy, I could shout from the roof tops!
-Bookafy gives me freedom and lowers my stress by about a million percent. Bookafy is a life saver… I spend so much less time trying to arrange my calendar, booking appointments, sending reminders, etc. Love it to the moon and back!
+Bookafy gives me freedom and lowers my stress by about a million percent. Bookafy is a life saver... I spend so much less time trying to arrange my calendar, booking appointments, sending reminders, etc. Love it to the moon and back!
 *JC – South Beach, FL*
-I added Bookafy to my business, and saved 3,000 on the extra staff member… all for only $40 per month! 
-Bookafy’s automated appointment confirmation emails and reminders have all but eliminated customer no-shows.” With Bookafy, Todd can focus on what he does best: providing premium services to his clients.
+I added Bookafy to my business, and saved 3,000 on the extra staff member... all for only $40 per month! 
+Bookafy's automated appointment confirmation emails and reminders have all but eliminated customer no-shows." With Bookafy, Todd can focus on what he does best: providing premium services to his clients.
 *Todd – Denver, CO*
 
 I am saving so much time and money!
@@ -49,7 +49,7 @@ Now that our clients book online with Bookafy I’m not constantly taking calls du
 4. Choose a button by clicking on the button. 
 5. Paste the [Bookafy_button type=’button1’] shortcode onto any page/post that you want to display your button to a calendar. (short code changes based on button chosen) This will link user to your subdomain page www.yourbusiness.mybookafy.com for online scheduling
 6. If you want to display your calendar on your page, create a new page and copy/past the widget shortcode onto new page. 
-7. Link on Menu – go to appearance, choose menus, on left side click “Links” then paste your subdomain www.yourbusiness.mybookafy.com  into URL, then Add text to Link Text (Book Appointment), then Click Add to Menu. Now your menu will link to your subdomain. 
+7. Link on Menu – go to appearance, choose menus, on left side click "Links"" then paste your subdomain www.yourbusiness.mybookafy.com  into URL, then Add text to Link Text (Book Appointment), then Click Add to Menu. Now your menu will link to your subdomain. 
 
 == Frequently Asked Questions ==
 
