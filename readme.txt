@@ -37,7 +37,7 @@ Now that our clients book online with Bookafy I’m not constantly taking calls du
 
 *Reya – Los Angeles*
  
-<a href="http://www.bookaf.com">Click here</a> for your 30 day free trial.
+<a href="http://www.bookafy.com">Click here</a> for your 30 day free trial.
 
 **Note: This plugin is available to users worldwide.**
 
